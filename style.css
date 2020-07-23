@@ -116,7 +116,7 @@ header .row .col-md-7 h1{
     padding: 1rem 0em;
     font-weight: bold;
     font-size: 8vmin;
-    transform: scale(1.10);
+    transform: scale(1.50);
     opacity: 0;
     animation: heading 1s 0.5s forwards;
     /* position: relative; */
