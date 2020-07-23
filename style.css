@@ -33,7 +33,7 @@ header a{
 }
 
 header {
-    height: 90vh;
+    height: 100vh;
     background: black;
     background: var(--gradient);
 }
